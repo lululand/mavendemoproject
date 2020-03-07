@@ -1,0 +1,5 @@
+com\klund\product\dao\ProductDAOImpl.class
+com\klund\product\bo\ProductBOImpl.class
+com\klund\product\dao\ProductDAO.class
+com\klund\product\bo\ProductBO.class
+com\klund\product\dto\Product.class
