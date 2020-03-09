@@ -1,9 +1,9 @@
 # mavendemoproject
 Java web app created using Maven
 
-##Demo project from [Maven Crash Course by Bharath Thippireddy] (https://www.udemy.com/course/mavencrashcourse).
+## Demo project from [Maven Crash Course by Bharath Thippireddy](https://www.udemy.com/course/mavencrashcourse).
 
-###Course objectives: 
+### Course objectives: 
 
 Master the core concepts of Maven while working hands on to create a multi module maven java web application project.
 
